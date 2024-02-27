@@ -8,7 +8,7 @@ the blog post written by André Perez on [Medium blog -Towards Data Science](htt
 
 ```bash
 # Build Spark Images
-./build.sh 
+chmod +x build.sh ; ./build.sh 
 ```
 
 ### 2. Create Docker Network & Volume
