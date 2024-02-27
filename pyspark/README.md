@@ -27,7 +27,7 @@ python3 consumer.py
 python3 consumer.py --topic <topic-name>
 ```
 
-### Running Streaming Script
+### Running PySpark Structured Streaming Script
 
 spark-submit script ensures installation of necessary jars before running the streaming.py
 
