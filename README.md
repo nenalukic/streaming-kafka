@@ -2,7 +2,7 @@
 
 In this week in [DEZoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) we learned about stream processing and kafka. [Videos](https://www.youtube.com/watch?v=hfvju3iOIP0&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb&index=67) from course.
 
-More about week 6 you can read in my free [newsletter](https://datadamejourneys.substack.com/p/data-engineering-zoomcamp-week-6).
+
 # Structure
 
 ## Introduction to Stream Processing
